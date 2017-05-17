@@ -1,0 +1,165 @@
+gcc  -g -Wall -c -fPIC  -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/os -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/mspu ms_cmu.c -o ms_cmu.o 
+ms_cmu.c: In function `ms_cmu_initial':
+ms_cmu.c:69: warning: passing arg 2 of `os_thread_pool_alloc' from incompatible pointer type
+ms_cmu.c:69: warning: passing arg 3 of `os_thread_pool_alloc' makes integer from pointer without a cast
+ms_cmu.c: In function `thrd_sock_cmu_fun':
+ms_cmu.c:199: warning: implicit declaration of function `get_msg_name'
+ms_cmu.c: In function `thrd_ptzmsg_cmu_fun':
+ms_cmu.c:296: warning: unused variable `skt'
+ms_cmu.c: In function `thrd_alarm_fun':
+ms_cmu.c:375: warning: unused variable `kpl_period'
+ms_cmu.c:376: warning: unused variable `last_kpl'
+ms_cmu.c:377: warning: unused variable `ret'
+gcc  -g -Wall -c -fPIC  -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/os -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/mspu ms_cmu_cmd.c -o ms_cmu_cmd.o 
+gcc  -g -Wall -c -fPIC  -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/os -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/mspu ms_cmu_get.c -o ms_cmu_get.o 
+In file included from ms_cmu_get.c:10:
+/home/jacker/ms_pusdk_c/pusdk_debug/inc/os/md5.h:97:26: warning: no newline at end of file
+ms_cmu_get.c: In function `prase_get_serial_info_pack':
+ms_cmu_get.c:158: warning: unused variable `cValue'
+ms_cmu_get.c: In function `build_get_img_text_pack':
+ms_cmu_get.c:634: warning: unused variable `out'
+ms_cmu_get.c:635: warning: unused variable `firstbuf'
+ms_cmu_get.c: In function `build_get_gpin_alarm_pack':
+ms_cmu_get.c:800: warning: unused variable `parameters'
+ms_cmu_get.c:800: warning: unused variable `hideDetection'
+ms_cmu_get.c:800: warning: unused variable `videoId'
+ms_cmu_get.c:800: warning: unused variable `alarm_enabled'
+ms_cmu_get.c:801: warning: unused variable `alar_time'
+ms_cmu_get.c:801: warning: unused variable `x'
+ms_cmu_get.c:801: warning: unused variable `y'
+ms_cmu_get.c:801: warning: unused variable `width'
+ms_cmu_get.c:801: warning: unused variable `height'
+ms_cmu_get.c:802: warning: unused variable `sensitivity'
+ms_cmu_get.c:802: warning: unused variable `h_alarm_output'
+ms_cmu_get.c:802: warning: unused variable `alarm_output'
+ms_cmu_get.c:802: warning: unused variable `alarm_state'
+ms_cmu_get.c:802: warning: unused variable `h_vedio'
+ms_cmu_get.c:802: warning: unused variable `vedio'
+ms_cmu_get.c:802: warning: unused variable `alarm_record'
+ms_cmu_get.c: In function `build_get_video_lost_pack':
+ms_cmu_get.c:836: warning: unused variable `parameters'
+ms_cmu_get.c:836: warning: unused variable `hideDetection'
+ms_cmu_get.c:836: warning: unused variable `videoId'
+ms_cmu_get.c:836: warning: unused variable `alarm_enabled'
+ms_cmu_get.c:837: warning: unused variable `alar_time'
+ms_cmu_get.c:837: warning: unused variable `x'
+ms_cmu_get.c:837: warning: unused variable `y'
+ms_cmu_get.c:837: warning: unused variable `width'
+ms_cmu_get.c:837: warning: unused variable `height'
+ms_cmu_get.c:838: warning: unused variable `sensitivity'
+ms_cmu_get.c:838: warning: unused variable `h_alarm_output'
+ms_cmu_get.c:838: warning: unused variable `alarm_output'
+ms_cmu_get.c:838: warning: unused variable `alarm_state'
+ms_cmu_get.c:838: warning: unused variable `h_vedio'
+ms_cmu_get.c:838: warning: unused variable `vedio'
+ms_cmu_get.c:838: warning: unused variable `alarm_record'
+ms_cmu_get.c: In function `build_get_motion_detect_pack':
+ms_cmu_get.c:997: warning: unused variable `alarm_output'
+ms_cmu_get.c:997: warning: unused variable `vedio'
+ms_cmu_get.c: In function `build_get_ptz_preset_pack':
+ms_cmu_get.c:1273: warning: unused variable `out'
+ms_cmu_get.c:1274: warning: unused variable `firstbuf'
+ms_cmu_get.c: In function `build_get_default_preset_pack':
+ms_cmu_get.c:1364: warning: unused variable `out'
+ms_cmu_get.c:1365: warning: unused variable `firstbuf'
+ms_cmu_get.c: In function `handle_get_msg':
+ms_cmu_get.c:1952: warning: passing arg 3 of `build_get_default_preset_pack' from incompatible pointer type
+gcc  -g -Wall -c -fPIC  -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/os -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/mspu ms_cmu_oper.c -o ms_cmu_oper.o 
+In file included from ms_cmu_oper.c:14:
+/home/jacker/ms_pusdk_c/pusdk_debug/inc/os/md5.h:97:26: warning: no newline at end of file
+ms_cmu_oper.c: In function `handle_contrl_oper_msg':
+ms_cmu_oper.c:70: warning: unused variable `result'
+ms_cmu_oper.c: In function `handle_upload_alarm':
+ms_cmu_oper.c:284: warning: int format, long unsigned int arg (arg 2)
+ms_cmu_oper.c: In function `prase_oper_del_preset_pack':
+ms_cmu_oper.c:775: warning: unused variable `secondbuf'
+ms_cmu_oper.c:777: warning: unused variable `FinalDest'
+ms_cmu_oper.c: In function `build_oper_del_preset_pack':
+ms_cmu_oper.c:820: warning: unused variable `firstbuf'
+ms_cmu_oper.c:823: warning: unused variable `FinalDest'
+ms_cmu_oper.c: In function `prase_oper_trans_channel_pack':
+ms_cmu_oper.c:904: warning: unused variable `pNode'
+ms_cmu_oper.c:904: warning: unused variable `controlAction'
+gcc  -g -Wall -c -fPIC  -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/os -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/mspu ms_cmu_reg.c -o ms_cmu_reg.o 
+In file included from ms_cmu_reg.c:12:
+/home/jacker/ms_pusdk_c/pusdk_debug/inc/os/md5.h:97:26: warning: no newline at end of file
+ms_cmu_reg.c: In function `cmu_upLoad_alarm':
+ms_cmu_reg.c:204: warning: unused variable `count'
+ms_cmu_reg.c:205: warning: unused variable `passwd'
+gcc  -g -Wall -c -fPIC  -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/os -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/mspu ms_cmu_set.c -o ms_cmu_set.o 
+In file included from ms_cmu_set.c:9:
+/home/jacker/ms_pusdk_c/pusdk_debug/inc/os/md5.h:97:26: warning: no newline at end of file
+ms_cmu_set.c: In function `parse_set_ImageTextPara_info_pack':
+ms_cmu_set.c:934: warning: unused variable `blankStr'
+ms_cmu_set.c:935: warning: unused variable `parseName'
+ms_cmu_set.c:936: warning: unused variable `in_gb2312'
+ms_cmu_set.c:937: warning: unused variable `encodeBuf'
+ms_cmu_set.c:939: warning: unused variable `secondbuf'
+ms_cmu_set.c:941: warning: unused variable `FinalDest'
+ms_cmu_set.c: In function `build_set_ImageTextPara_info_pack':
+ms_cmu_set.c:1064: warning: unused variable `meiDianFlag'
+ms_cmu_set.c:1065: warning: unused variable `tmp'
+ms_cmu_set.c:1066: warning: unused variable `firstbuf'
+ms_cmu_set.c: In function `parse_set_ImagHideArea_info_pack':
+ms_cmu_set.c:1851: warning: unused variable `hideImageArea'
+ms_cmu_set.c: In function `parse_set_StoreageTask_info_pack':
+ms_cmu_set.c:1998: warning: unused variable `schedule'
+ms_cmu_set.c: In function `parse_set_presetList_info_pack':
+ms_cmu_set.c:2251: warning: unused variable `blankStr'
+ms_cmu_set.c:2252: warning: unused variable `parseName'
+ms_cmu_set.c:2253: warning: unused variable `in_gb2312'
+ms_cmu_set.c:2254: warning: unused variable `encodeBuf'
+ms_cmu_set.c:2255: warning: unused variable `encodeBuf2'
+ms_cmu_set.c:2287: warning: unused variable `secondbuf'
+ms_cmu_set.c:2289: warning: unused variable `FinalDest'
+ms_cmu_set.c: In function `build_set_presetList_info_pack':
+ms_cmu_set.c:2354: warning: unused variable `tmp'
+ms_cmu_set.c:2355: warning: unused variable `firstbuf'
+ms_cmu_set.c: In function `parse_set_defaultResetprz_info_pack':
+ms_cmu_set.c:2387: warning: unused variable `secondbuf'
+ms_cmu_set.c:2389: warning: unused variable `FinalDest'
+ms_cmu_set.c: In function `build_set_defaultResetprz_info_pack':
+ms_cmu_set.c:2463: warning: unused variable `firstbuf'
+ms_cmu_set.c:2464: warning: unused variable `secondbuf'
+ms_cmu_set.c:2465: warning: unused variable `p'
+ms_cmu_set.c:2466: warning: unused variable `FinalDest'
+ms_cmu_set.c: In function `handle_set_msg':
+ms_cmu_set.c:2575: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2589: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2603: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2618: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2634: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2654: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2668: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2700: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2720: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2734: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2825: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2846: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2867: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2892: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2921: warning: passing arg 3 of pointer to function from incompatible pointer type
+ms_cmu_set.c:2940: warning: passing arg 3 of pointer to function from incompatible pointer type
+gcc  -g -Wall -c -fPIC  -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/os -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/mspu ms_mdu.c -o ms_mdu.o 
+In file included from /home/jacker/ms_pusdk_c/pusdk_debug/inc/mspu/ms_mdu_stream_pool.h:4,
+                 from ms_mdu.c:7:
+/home/jacker/ms_pusdk_c/pusdk_debug/inc/mspu/ms_mdu_stream.h:46: warning: useless keyword or type name in empty declaration
+gcc  -g -Wall -c -fPIC  -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/os -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/mspu ms_mdu_msg.c -o ms_mdu_msg.o 
+gcc  -g -Wall -c -fPIC  -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/os -I/home/jacker/ms_pusdk_c/pusdk_debug/inc/mspu ms_mdu_stream.c -o ms_mdu_stream.o 
+In file included from ms_mdu_stream.c:1:
+/home/jacker/ms_pusdk_c/pusdk_debug/inc/mspu/ms_mdu_stream.h:46: warning: useless keyword or type name in empty declaration
+ms_mdu_stream.c:47: error: conflicting types for 'data_pkt_info_t'
+/home/jacker/ms_pusdk_c/pusdk_debug/inc/os/osqueue.h:13: error: previous declaration of 'data_pkt_info_t' was here
+ms_mdu_stream.c: In function `push':
+ms_mdu_stream.c:121: warning: implicit declaration of function `os_queue_data_post'
+ms_mdu_stream.c:105: warning: unused variable `utLen'
+ms_mdu_stream.c: In function `pop':
+ms_mdu_stream.c:135: warning: implicit declaration of function `os_queue_data_read'
+ms_mdu_stream.c: In function `mdu_stream_create':
+ms_mdu_stream.c:184: warning: implicit declaration of function `os_queue_data_create'
+ms_mdu_stream.c:184: warning: assignment makes pointer from integer without a cast
+ms_mdu_stream.c: In function `mdu_stream_post_data':
+ms_mdu_stream.c:374: warning: unused variable `i'
+ms_mdu_stream.c: In function `mdu_stream_proc':
+ms_mdu_stream.c:404: warning: implicit declaration of function `os_queue_data_clear'
+make: *** [ms_mdu_stream.o] 错误 1

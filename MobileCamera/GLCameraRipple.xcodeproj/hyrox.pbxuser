@@ -1,0 +1,281 @@
+// !$*UTF8*$!
+{
+	3684AC4B15284CF300EC7D84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B66E3E4B13E9E79C00D2ACF0 /* RippleViewController.m */;
+		name = "RippleViewController.m: 99";
+		rLen = 7;
+		rLoc = 3459;
+		rType = 0;
+		vrLen = 1071;
+		vrLoc = 3630;
+	};
+	3685CCEB1528532800B7F5ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B66E3E4B13E9E79C00D2ACF0 /* RippleViewController.m */;
+		name = "RippleViewController.m: 100";
+		rLen = 0;
+		rLoc = 3487;
+		rType = 0;
+		vrLen = 570;
+		vrLoc = 3228;
+	};
+	36E5D9D31526F32D00AB1EFC /* GLCameraRipple */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GLCameraRipple;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	36E5D9DD1526F34C00AB1EFC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	36E5D9DE1526F34C00AB1EFC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	36E5DCB61528342A00AB1EFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 36E5DCB71528342A00AB1EFC /* gl.h */;
+		name = "gl.h: 637";
+		rLen = 112;
+		rLoc = 35857;
+		rType = 0;
+		vrLen = 4070;
+		vrLoc = 33476;
+	};
+	36E5DCB71528342A00AB1EFC /* gl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = gl.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/gl.h;
+		sourceTree = "<absolute>";
+	};
+	36E5DCB81528342A00AB1EFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B66E3E4013E9E79C00D2ACF0 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1264;
+		vrLoc = 1382;
+	};
+	36E5DCB91528342A00AB1EFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B66E3E4313E9E79C00D2ACF0 /* AppDelegate.h */;
+		name = "AppDelegate.h: 54";
+		rLen = 0;
+		rLoc = 2581;
+		rType = 0;
+		vrLen = 1297;
+		vrLoc = 1396;
+	};
+	36E5DCBB1528342A00AB1EFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B66E3E4813E9E79C00D2ACF0 /* Shader.vsh */;
+		name = "Shader.vsh: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1287;
+		vrLoc = 1364;
+	};
+	36E5DCBC1528342A00AB1EFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B66E3E4613E9E79C00D2ACF0 /* Shader.fsh */;
+		name = "Shader.fsh: 73";
+		rLen = 0;
+		rLoc = 3197;
+		rType = 0;
+		vrLen = 779;
+		vrLoc = 2422;
+	};
+	36E5DCBD1528342A00AB1EFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B6670DB213E9FD9F00AEF9EC /* RippleModel.h */;
+		name = "RippleModel.h: 49";
+		rLen = 27;
+		rLoc = 2518;
+		rType = 0;
+		vrLen = 940;
+		vrLoc = 2184;
+	};
+	36E5DE0A1528451300AB1EFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B66E3E4A13E9E79C00D2ACF0 /* RippleViewController.h */;
+		name = "RippleViewController.h: 49";
+		rLen = 0;
+		rLoc = 2536;
+		rType = 0;
+		vrLen = 1533;
+		vrLoc = 1163;
+	};
+	36E5DE0B1528451300AB1EFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B66E3E4413E9E79C00D2ACF0 /* AppDelegate.m */;
+		name = "AppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1322;
+		vrLoc = 2015;
+	};
+	36E5DE0C1528451300AB1EFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B6670DB313E9FD9F00AEF9EC /* RippleModel.m */;
+		name = "RippleModel.m: 243";
+		rLen = 0;
+		rLoc = 7605;
+		rType = 0;
+		vrLen = 693;
+		vrLoc = 2719;
+	};
+	B6670DB213E9FD9F00AEF9EC /* RippleModel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 936}}";
+			sepNavSelRange = "{2518, 27}";
+			sepNavVisRange = "{2184, 940}";
+		};
+	};
+	B6670DB313E9FD9F00AEF9EC /* RippleModel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 4914}}";
+			sepNavSelRange = "{2788, 0}";
+			sepNavVisRange = "{2655, 324}";
+		};
+	};
+	B66E3E2513E9E79C00D2ACF0 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 36E5D9D31526F32D00AB1EFC /* GLCameraRipple */;
+		activeTarget = B66E3E2D13E9E79C00D2ACF0 /* GLCameraRipple */;
+		codeSenseManager = 36E5D9DE1526F34C00AB1EFC /* Code sense */;
+		executables = (
+			36E5D9D31526F32D00AB1EFC /* GLCameraRipple */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					705,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 354964102;
+			PBXWorkspaceStateSaveDate = 354964102;
+		};
+		perUserProjectItems = {
+			3684AC4B15284CF300EC7D84 /* PBXTextBookmark */ = 3684AC4B15284CF300EC7D84 /* PBXTextBookmark */;
+			3685CCEB1528532800B7F5ED /* PBXTextBookmark */ = 3685CCEB1528532800B7F5ED /* PBXTextBookmark */;
+			36E5DCB61528342A00AB1EFC /* PBXTextBookmark */ = 36E5DCB61528342A00AB1EFC /* PBXTextBookmark */;
+			36E5DCB81528342A00AB1EFC /* PBXTextBookmark */ = 36E5DCB81528342A00AB1EFC /* PBXTextBookmark */;
+			36E5DCB91528342A00AB1EFC /* PBXTextBookmark */ = 36E5DCB91528342A00AB1EFC /* PBXTextBookmark */;
+			36E5DCBB1528342A00AB1EFC /* PBXTextBookmark */ = 36E5DCBB1528342A00AB1EFC /* PBXTextBookmark */;
+			36E5DCBC1528342A00AB1EFC /* PBXTextBookmark */ = 36E5DCBC1528342A00AB1EFC /* PBXTextBookmark */;
+			36E5DCBD1528342A00AB1EFC /* PBXTextBookmark */ = 36E5DCBD1528342A00AB1EFC /* PBXTextBookmark */;
+			36E5DE0A1528451300AB1EFC /* PBXTextBookmark */ = 36E5DE0A1528451300AB1EFC /* PBXTextBookmark */;
+			36E5DE0B1528451300AB1EFC /* PBXTextBookmark */ = 36E5DE0B1528451300AB1EFC /* PBXTextBookmark */;
+			36E5DE0C1528451300AB1EFC /* PBXTextBookmark */ = 36E5DE0C1528451300AB1EFC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 36E5D9DD1526F34C00AB1EFC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B66E3E2D13E9E79C00D2ACF0 /* GLCameraRipple */ = {
+		activeExec = 0;
+		executables = (
+			36E5D9D31526F32D00AB1EFC /* GLCameraRipple */,
+		);
+	};
+	B66E3E4013E9E79C00D2ACF0 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 754}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1382, 1264}";
+		};
+	};
+	B66E3E4313E9E79C00D2ACF0 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 767}}";
+			sepNavSelRange = "{2581, 0}";
+			sepNavVisRange = "{1396, 1297}";
+		};
+	};
+	B66E3E4413E9E79C00D2ACF0 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1443}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2015, 1322}";
+		};
+	};
+	B66E3E4613E9E79C00D2ACF0 /* Shader.fsh */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 988}}";
+			sepNavSelRange = "{3197, 0}";
+			sepNavVisRange = "{2422, 779}";
+		};
+	};
+	B66E3E4813E9E79C00D2ACF0 /* Shader.vsh */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 754}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1364, 1287}";
+		};
+	};
+	B66E3E4A13E9E79C00D2ACF0 /* RippleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 715}}";
+			sepNavSelRange = "{2536, 0}";
+			sepNavVisRange = "{1163, 1533}";
+		};
+	};
+	B66E3E4B13E9E79C00D2ACF0 /* RippleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 7280}}";
+			sepNavSelRange = "{3487, 0}";
+			sepNavVisRange = "{3228, 570}";
+		};
+	};
+}

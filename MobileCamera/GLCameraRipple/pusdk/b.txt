@@ -1,0 +1,228 @@
+
+18:47:48.056543 arp reply localhost is-at c8:60:00:da:b5:7b (oui Unknown)
+.........`...{......'.+ ...H..................
+18:47:52.941435 arp who-has localhost tell localhost
+.........`...{................................
+18:47:58.009150 IP localhost.sip > localhost.15062: SIP, length: 330
+E..f.0..@.A........H..:..R..SIP/2.0 200 OK
+To: <sip:34020000002000000001@3402000000>;tag=35154894_53173353_cdf98299-b045-4344-a837-38d0ecd2e08f
+Via: SIP/2.0/UDP 192.168.2.72:15062;rport=15062;branch=z9hG4bK619056542;received=192.168.2.72
+CSeq: 20 MESSAGE
+Call-ID: 31587085
+From: <sip:34020000001180000002@3402000000>;tag=371359437
+Content-Length: 0
+
+
+18:48:12.756194 arp who-has localhost tell localhost
+.........`...{................................
+18:48:13.009532 IP localhost.sip > localhost.15062: SIP, length: 334
+E..j.5..@.A........H..:..V#.SIP/2.0 200 OK
+To: <sip:34020000002000000001@3402000000>;tag=53841703_53173353_dd25f701-3cbf-47cf-a78e-af3b3272cce0
+Via: SIP/2.0/UDP 192.168.2.72:15062;rport=15062;branch=z9hG4bK1713899052;received=192.168.2.72
+CSeq: 20 MESSAGE
+Call-ID: 1580709595
+From: <sip:34020000001180000002@3402000000>;tag=2067486720
+Content-Length: 0
+
+
+18:48:28.013327 IP localhost.sip > localhost.15062: SIP, length: 331
+E..g.;..@.A........H..:..S..SIP/2.0 200 OK
+To: <sip:34020000002000000001@3402000000>;tag=76082817_53173353_66fa16f0-83fe-4d43-9491-542057020ee8
+Via: SIP/2.0/UDP 192.168.2.72:15062;rport=15062;branch=z9hG4bK479406188;received=192.168.2.72
+CSeq: 20 MESSAGE
+Call-ID: 519204904
+From: <sip:34020000001180000002@3402000000>;tag=988840477
+Content-Length: 0
+
+
+18:48:33.020627 arp reply localhost is-at c8:60:00:da:b5:7b (oui Unknown)
+.........`...{......'.+ ...H..................
+18:48:35.930571 IP localhost.netbios-dgm > localhost.netbios-dgm: NBT UDP PACKET(138)
+E....>..@.A............................... ENEGELFFDAEGEODJEKFGDFDAEFEHFECA. FHEPFCELEHFCEPFFFACACACACACACABN..SMB%..............................!...................!.V.........2.\MAILSLOT\BROWSE.....
+.MFKU0FN9JV50EGT.........U..
+18:48:43.015168 IP localhost.sip > localhost.15062: SIP, length: 332
+E..h.A..@.A........H..:..T..SIP/2.0 200 OK
+To: <sip:34020000002000000001@3402000000>;tag=95679881_53173353_abd18d00-2eb3-4e85-ae0b-f43ecadcb453
+Via: SIP/2.0/UDP 192.168.2.72:15062;rport=15062;branch=z9hG4bK222809052;received=192.168.2.72
+CSeq: 20 MESSAGE
+Call-ID: 1906852277
+From: <sip:34020000001180000002@3402000000>;tag=811922180
+Content-Length: 0
+
+
+18:48:48.680218 IP localhost.sip > localhost.15062: SIP, length: 411
+E....C..@.A........H..:.....SIP/2.0 401 Unauthorized
+To: <sip:34020000001180000002@3402000000>;tag=67049511_53173353_30e6139c-16de-45d3-8ae8-e9dbcdf8636f
+Via: SIP/2.0/UDP 192.168.2.72:15062;rport=15062;branch=z9hG4bK99183821;received=192.168.2.72
+CSeq: 4 REGISTER
+Call-ID: 397411967
+From: <sip:34020000001180000002@3402000000>;tag=1837880777
+WWW-Authenticate: Digest realm="3402000000",nonce="ce77def59b8648cf"
+Content-Length: 0
+
+
+18:48:48.684634 IP localhost.sip > localhost.15062: SIP, length: 413
+E....D..@.A........H..:.....SIP/2.0 401 Unauthorized
+To: <sip:34020000001180000002@3402000000>;tag=71915664_53173353_95190cdf-c9f9-43d4-9e12-64ace6611da7
+Via: SIP/2.0/UDP 192.168.2.72:15062;rport=15062;branch=z9hG4bK1882019019;received=192.168.2.72
+CSeq: 5 REGISTER
+Call-ID: 397411967
+From: <sip:34020000001180000002@3402000000>;tag=1837880777
+WWW-Authenticate: Digest realm="3402000000",nonce="c5924d46d8f33e61"
+Content-Length: 0
+
+
+18:48:48.697565 IP localhost.sip > localhost.15062: SIP, length: 340
+E..p.E..@.A........H..:..\.*SIP/2.0 403 Forbidden
+To: <sip:34020000001180000002@3402000000>;tag=83594317_53173353_f15b8e58-2045-4beb-9693-5705021eb337
+Via: SIP/2.0/UDP 192.168.2.72:15062;rport=15062;branch=z9hG4bK1493890702;received=192.168.2.72
+CSeq: 6 REGISTER
+Call-ID: 397411967
+From: <sip:34020000001180000002@3402000000>;tag=1837880777
+Content-Length: 0
+
+
+18:48:54.764160 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 156
+E....H..@.B........H........E.....@.@......H.....SEq..|.[]16 [2.8.0]++++++++++++++++++++++++++++++++++++++++++++++++gb28181 end dividing line+++++++++++++++++++++++++++++++++++
+18:48:55.869430 arp who-has localhost tell localhost
+.........`...{................................
+18:49:04.765684 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 156
+E....M..@.B........H..h.....E.....@.@......H.....iEq....[]16 [2.8.0]++++++++++++++++++++++++++++++++++++++++++++++++++++gb28181 start dividing line+++++++++++++++++++++++++++++
+18:49:04.765684 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 75
+E.._.N..@.B........H........E..C..@.@..R...H......Eq./.G[]16 [2.8.0]sip server initial success.
+18:49:04.765967 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w.O..@.B........H........E..[..@.@..:...H......Eq.G..[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:49:14.020470 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w.R..@.B........H........E..[..@.@..:...H......Eq.Gg.[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:49:19.067715 arp reply localhost is-at c8:60:00:da:b5:7b (oui Unknown)
+.........`...{......'.+ ...H..................
+18:49:24.011631 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w.U..@.B........H........E..[..@.@..:...H.....>Eq.Gfa[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:49:34.017871 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w.X..@.B........H........E..[..@.@..:...H......Eq.G..[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:49:44.021904 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w.[..@.B........H........E..[..@.@..:...H......Eq.G..[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:49:54.023359 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w.^..@.B........H........E..[..@.@..:...H......Eq.Gz.[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:49:58.799119 arp who-has localhost tell localhost
+.........`...{................................
+18:50:04.018951 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w.d..@.B........H........E..[..@.@..:...H......Eq.G..[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:50:09.035579 arp reply localhost is-at c8:60:00:da:b5:7b (oui Unknown)
+.........`...{......'.+ ...H..................
+18:50:14.016531 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w.g..@.B........H........E..[..@.@..:...H......Eq.G..[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:50:24.023962 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w.j..@.B........H........E..[..@.@..:...H.....HEq.GvW[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:50:34.020661 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w.m..@.B........H........E..[..@.@..:...H......Eq.G..[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:50:44.027392 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w.p..@.B........H........E..[..@.@..:...H......Eq.G..[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:50:54.021937 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w.s..@.B........H........E..[..@.@..:...H......Eq.G..[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:50:59.047611 arp reply localhost is-at c8:60:00:da:b5:7b (oui Unknown)
+.........`...{......'.+ ...H..................
+18:51:01.727992 arp who-has localhost tell localhost
+.........`...{................................
+18:51:04.015572 IP localhost > localhost: ICMP localhost udp port 17777 unreachable, length 99
+E..w....@.B........H........E..[..@.@..:...H......Eq.G..[]16 [2.8.0]thrd_reg_cmu_fun register to cmu now  ....is_reg:0
+
+18:52:04.657482 arp who-has localhost tell localhost
+.........`...{................................
+18:53:07.586256 arp who-has localhost tell localhost
+.........`...{................................
+18:54:10.515373 arp who-has localhost tell localhost
+.........`...{................................
+18:55:13.444269 arp who-has localhost tell localhost
+.........`...{................................
+18:56:16.373383 arp who-has localhost tell localhost
+.........`...{................................
+18:57:19.302399 arp who-has localhost tell localhost
+.........`...{................................
+18:57:39.834191 arp who-has localhost tell localhost
+.........`...{.............I..................
+18:58:20.231695 arp who-has localhost tell localhost
+.........`...{................................
+18:58:22.230978 arp who-has localhost tell localhost
+.........`...{................................
+18:59:25.160414 arp who-has localhost tell localhost
+.........`...{................................
+19:00:28.088902 arp who-has localhost tell localhost
+.........`...{................................
+19:00:33.251959 IP localhost.netbios-dgm > localhost.netbios-dgm: NBT UDP PACKET(138)
+E.......@.&o.............................. ENEGELFFDAEGEODJEKFGDFDAEFEHFECA. FHEPFCELEHFCEPFFFACACACACACACABN..SMB%..............................!...................!.V.........2.\MAILSLOT\BROWSE.....
+.MFKU0FN9JV50EGT.........U..
+19:01:31.018365 arp who-has localhost tell localhost
+.........`...{................................
+19:02:33.947094 arp who-has localhost tell localhost
+.........`...{................................
+19:03:36.876337 arp who-has localhost tell localhost
+.........`...{................................
+19:04:39.806342 arp who-has localhost tell localhost
+.........`...{................................
+19:05:42.735001 arp who-has localhost tell localhost
+.........`...{................................
+19:06:45.664272 arp who-has localhost tell localhost
+.........`...{................................
+19:07:48.592797 arp who-has localhost tell localhost
+.........`...{................................
+19:08:49.522744 arp who-has localhost tell localhost
+.........`...{................................
+19:08:51.522247 arp who-has localhost tell localhost
+.........`...{................................
+19:09:04.387244 arp who-has localhost tell localhost
+.........`...{.............I..................
+19:09:54.451551 arp who-has localhost tell localhost
+.........`...{................................
+19:10:57.379526 arp who-has localhost tell localhost
+.........`...{................................
+19:12:00.309784 arp who-has localhost tell localhost
+.........`...{................................
+19:12:06.094760 IP localhost.netbios-ns > localhost.netbios-ns: NBT UDP PACKET(137): QUERY; REQUEST; BROADCAST
+E..N.=..@.&S.............:z............. ENEJEOEHFDEPEGFECACACACACACACACA.. ..
+19:12:06.095539 arp who-has localhost tell localhost
+.........`...{................................
+19:12:34.509574 IP localhost.netbios-dgm > localhost.netbios-dgm: NBT UDP PACKET(138)
+E....O..@.%............................... ENEGELFFDAEGEODJEKFGDFDAEFEHFECA. FHEPFCELEHFCEPFFFACACACACACACABN..SMB%..............................!...................!.V.........2.\MAILSLOT\BROWSE.....
+.MFKU0FN9JV50EGT.........U..
+19:13:03.237927 arp who-has localhost tell localhost
+.........`...{................................
+19:14:06.167233 arp who-has localhost tell localhost
+.........`...{................................
+19:15:09.096273 arp who-has localhost tell localhost
+.........`...{................................
+19:15:16.670585 arp who-has localhost tell localhost
+.........`...{................................
+19:15:18.730483 arp who-has localhost tell localhost
+.........`...{.............I..................
+19:15:22.666756 arp who-has localhost tell localhost
+.........`...{................................
+19:15:28.655860 arp who-has localhost tell localhost
+.........`...{................................
+19:15:34.650166 arp who-has localhost tell localhost
+.........`...{................................
+19:15:40.644520 arp who-has localhost tell localhost
+.........`...{................................
+19:15:46.634917 arp who-has localhost tell localhost
+.........`...{................................
+19:16:12.025553 arp who-has localhost tell localhost
+.........`...{................................
+19:17:14.954255 arp who-has localhost tell localhost
+.........`...{................................
+19:18:17.883273 arp who-has localhost tell localhost
+.........`...{................................
+19:19:18.813612 arp who-has localhost tell localhost
+.........`...{................................
+

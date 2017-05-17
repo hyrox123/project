@@ -1,0 +1,599 @@
+TGLCameraRipple
+v7
+r0
+t354874316.250838
+cCheck dependencies
+cProcessInfoPlistFile /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Info.plist GLCameraRipple/GLCameraRipple-Info.plist
+cProcessPCH /var/folders/1r/1r4kwy6KHGCBrvYKIW0HlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLCameraRipple-Prefix-dhaasykamnxxbwfkqqtiwqdkkhlq/GLCameraRipple-Prefix.pch.pth GLCameraRipple/GLCameraRipple-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/main.o /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/AppDelegate.o /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/RippleViewController.o /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/RippleModel.o /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Shader.fsh GLCameraRipple/Shaders/Shader.fsh
+cCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Shader.vsh GLCameraRipple/Shaders/Shader.vsh
+cCompileXIB /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPhone.xib
+cCompileXIB /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPad.xib
+cCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Icon-72.png GLCameraRipple/Images/Icon-72.png
+cCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Icon-Small-50.png GLCameraRipple/Images/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Icon-Small.png GLCameraRipple/Images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Icon-Small@2x.png GLCameraRipple/Images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Icon.png GLCameraRipple/Images/Icon.png
+cCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Icon@2x.png GLCameraRipple/Images/Icon@2x.png
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004CC127FC0000000000063DD0
+t1287727100
+s409040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004CC122DE0000000000018050
+t1287725790
+s98384
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/GLKit.framework/GLKit
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/gl.h
+c000000004CC1230800000000000092AA
+t1287725832
+s37546
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h
+c000000004F455A300000000000000A85
+t1329945136
+s2693
+i<UIKit/UIKit.h>
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m
+c000000004F455A30000000000000139E
+t1329945136
+s5022
+i"AppDelegate.h"
+i"RippleViewController.h"
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch
+c000000004F455A300000000000000A83
+t1329945136
+s2691
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon-72.png
+c000000004F3D61A90000000000000427
+t1329422761
+s1063
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon-Small-50.png
+c000000004F3D61A900000000000003E0
+t1329422761
+s992
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon-Small.png
+c000000004F3D61A90000000000000396
+t1329422761
+s918
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon-Small@2x.png
+c000000004F3D61A900000000000003F2
+t1329422761
+s1010
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon.png
+c000000004F3D61A900000000000003EF
+t1329422761
+s1007
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon@2x.png
+c000000004F3D61A900000000000004E4
+t1329422761
+s1252
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.h
+c000000004F455A300000000000000C34
+t1329945136
+s3124
+i<Foundation/Foundation.h>
+i<OpenGLES/ES2/gl.h>
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m
+c000000004F455A300000000000002F10
+t1329945136
+s12048
+i"RippleModel.h"
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.h
+c000000004F455A300000000000000A88
+t1329945136
+s2696
+i<UIKit/UIKit.h>
+i<GLKit/GLKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.m
+c000000004F455A300000000000004518
+t1329945136
+s17688
+i<CoreVideo/CVOpenGLESTextureCache.h>
+i"RippleViewController.h"
+i"RippleModel.h"
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Shaders/Shader.fsh
+c000000004F455A300000000000000C81
+t1329945136
+s3201
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Shaders/Shader.vsh
+c000000004F455A300000000000000A5B
+t1329945136
+s2651
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPad.xib
+c000000004F3D61A900000000000017BF
+t1329422761
+s6079
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPhone.xib
+c000000004F3D61A90000000000001798
+t1329422761
+s6040
+
+N/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m
+c000000004F455A300000000000000A56
+t1329945136
+s2646
+i<UIKit/UIKit.h>
+i"AppDelegate.h"
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app
+t1333181374
+s442
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app.dSYM
+t2
+s0
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/GLCameraRipple
+t2
+s0
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Icon-72.png
+t1333181374
+s1063
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Icon-Small-50.png
+t1333181374
+s992
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Icon-Small.png
+t1333181374
+s918
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Icon-Small@2x.png
+t1333181374
+s1010
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Icon.png
+t1333181374
+s1007
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Icon@2x.png
+t1333181374
+s1252
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Info.plist
+t1333181367
+s998
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/PkgInfo
+t1333181367
+s8
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Shader.fsh
+t1333181372
+s3201
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Shader.vsh
+t1333181372
+s2651
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/en.lproj/RippleViewController_iPad.nib
+t1333181374
+s1336
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/en.lproj/RippleViewController_iPhone.nib
+t1333181374
+s1373
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/GLCameraRipple.LinkFileList
+c000000004F76BBB7000000000000023A
+t1333181367
+s570
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/RippleModel.o
+t2
+s0
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/RippleViewController.o
+t2
+s0
+
+N/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/1r/1r4kwy6KHGCBrvYKIW0HlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLCameraRipple-Prefix-dhaasykamnxxbwfkqqtiwqdkkhlq/GLCameraRipple-Prefix.pch.pth
+t1333181370
+s2778556
+
+NGLCameraRipple/GLCameraRipple-Info.plist
+c000000004F3ED48100000000000005F2
+t1329517697
+s1522
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354874315#354874316#0(0"0(0#1#0"8663210656#0"0#
+
+CCompileC build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/AppDelegate.o /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354874316.081195
+e354874316.150286
+r0
+xCompileC
+xbuild/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/AppDelegate.o
+x/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m:48:
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:54:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) UIWindow *window;
+o            ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:54:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) UIWindow *window;
+o ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:54:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:56:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) RippleViewController *viewController;
+o            ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:56:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) RippleViewController *viewController;
+o ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:56:1: warning: default property attribute 'assign' not appropriate for non-gc object
+oIn file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m:50:
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.h:49:9: fatal error: 'GLKit/GLKit.h' file not found
+o #import <GLKit/GLKit.h>
+o         ^
+o4 warnings and 3 errors generated.
+lSLF07#2@74"Compile /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m354874316#354874316#0(1511"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m:48:/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:54:12: error: unknown property attribute 'strong' @property (strong, nonatomic) UIWindow *window;            ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:54:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) UIWindow *window; ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:54:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:56:12: error: unknown property attribute 'strong' @property (strong, nonatomic) RippleViewController *viewController;            ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:56:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) RippleViewController *viewController; ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:56:1: warning: default property attribute 'assign' not appropriate for non-gc objectIn file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m:50:/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.h:49:9: fatal error: 'GLKit/GLKit.h' file not found #import <GLKit/GLKit.h>         ^4 warnings and 3 errors generated.7(4@35"Unknown property attribute 'strong'354874316#93#117#2(7@92"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m:48:354874316#0#93#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m351637936#48#0#48#0#0"0(13@105"Unknown property attribute 'strong' in /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#54#12#0#0#0"0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#54#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed354874316#273#160#2(7@92"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m:48:354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m351637936#48#0#48#0#0"0(13@147"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#54#1#0#0#0"0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#54#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object354874316#485#152#2(7@92"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m:48:354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m351637936#48#0#48#0#0"0(13@139"Default property attribute 'assign' not appropriate for non-gc object in /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#54#1#0#0#0"0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#54#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@35"Unknown property attribute 'strong'354874316#637#117#2(7@92"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m:48:354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m351637936#48#0#48#0#0"0(13@105"Unknown property attribute 'strong' in /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#56#12#0#0#0"0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#56#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed354874316#837#160#2(7@92"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m:48:354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m351637936#48#0#48#0#0"0(13@147"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#56#1#0#0#0"0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#56#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object354874316#1069#152#2(7@92"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m:48:354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m351637936#48#0#48#0#0"0(13@139"Default property attribute 'assign' not appropriate for non-gc object in /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#56#1#0#0#0"0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#56#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@30"'GLKit/GLKit.h' file not found354874316#1314#126#0(6@75"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.h351637936#49#9#0#0#18"'*' file not found0(0#0#66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m8661353920#2121"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-generated-files.hmap -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-own-target-headers.hmap -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-all-target-headers.hmap -iquote /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-project-headers.hmap -F/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator -I/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/include -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/DerivedSources/i386 -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/DerivedSources -include /var/folders/1r/1r4kwy6KHGCBrvYKIW0HlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLCameraRipple-Prefix-dhaasykamnxxbwfkqqtiwqdkkhlq/GLCameraRipple-Prefix.pch -c /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.m -o /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/AppDelegate.o1#
+
+CCompileC build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/RippleModel.o /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354874316.150385
+e354874316.250038
+r0
+xCompileC
+xbuild/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/RippleModel.o
+x/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:51:18: error: ivars may not be placed in class extension
+o     unsigned int screenWidth;
+o                  ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:52:18: error: ivars may not be placed in class extension
+o     unsigned int screenHeight;
+o                  ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:53:18: error: ivars may not be placed in class extension
+o     unsigned int poolWidth;
+o                  ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:54:18: error: ivars may not be placed in class extension
+o     unsigned int poolHeight;
+o                  ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:55:18: error: ivars may not be placed in class extension
+o     unsigned int touchRadius;
+o                  ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:57:18: error: ivars may not be placed in class extension
+o     unsigned int meshFactor;
+o                  ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:59:11: error: ivars may not be placed in class extension
+o     float texCoordFactorS;
+o           ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:60:11: error: ivars may not be placed in class extension
+o     float texCoordOffsetS;
+o           ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:61:11: error: ivars may not be placed in class extension
+o     float texCoordFactorT;
+o           ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:62:11: error: ivars may not be placed in class extension
+o     float texCoordOffsetT;
+o           ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:65:12: error: ivars may not be placed in class extension
+o     float *rippleCoeff;
+o            ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:68:12: error: ivars may not be placed in class extension
+o     float *rippleSource;
+o            ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:69:12: error: ivars may not be placed in class extension
+o     float *rippleDest;
+o            ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:72:14: error: ivars may not be placed in class extension
+o     GLfloat *rippleVertices;
+o              ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:73:14: error: ivars may not be placed in class extension
+o     GLfloat *rippleTexCoords;
+o              ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:74:15: error: ivars may not be placed in class extension
+o     GLushort *rippleIndicies;    
+o               ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:84:5: error: use of undeclared identifier 'rippleSource'
+o     memset(rippleSource, 0, (poolWidth+2)*(poolHeight+2)*sizeof(float));
+o     ^
+oIn file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch:55:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:25:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h:148:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h:75:5: note: instantiated from:
+o   ((__darwin_obsz0 (dest) != (size_t) -1)                               \
+o     ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:84:5: note: instantiated from:
+o     memset(rippleSource, 0, (poolWidth+2)*(poolHeight+2)*sizeof(float));
+o     ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:84:12: note: instantiated from:
+o     memset(rippleSource, 0, (poolWidth+2)*(poolHeight+2)*sizeof(float));
+o            ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:85:5: error: use of undeclared identifier 'rippleDest'
+o     memset(rippleDest, 0, (poolWidth+2)*(poolHeight+2)*sizeof(float));
+o     ^
+oIn file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch:55:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:25:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h:148:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h:75:5: note: instantiated from:
+o   ((__darwin_obsz0 (dest) != (size_t) -1)                               \
+o     ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:85:5: note: instantiated from:
+o     memset(rippleDest, 0, (poolWidth+2)*(poolHeight+2)*sizeof(float));
+o     ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:85:12: note: instantiated from:
+o     memset(rippleDest, 0, (poolWidth+2)*(poolHeight+2)*sizeof(float));
+o            ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:90:24: error: use of undeclared identifier 'touchRadius'
+o     for (int y=0; y<=2*touchRadius; y++)
+o                        ^
+ofatal error: too many errors emitted, stopping now [-ferror-limit=]
+o20 errors generated.
+lSLF07#2@74"Compile /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m354874316#354874316#0(6468"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:51:18: error: ivars may not be placed in class extension     unsigned int screenWidth;                  ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:52:18: error: ivars may not be placed in class extension     unsigned int screenHeight;                  ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:53:18: error: ivars may not be placed in class extension     unsigned int poolWidth;                  ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:54:18: error: ivars may not be placed in class extension     unsigned int poolHeight;                  ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:55:18: error: ivars may not be placed in class extension     unsigned int touchRadius;                  ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:57:18: error: ivars may not be placed in class extension     unsigned int meshFactor;                  ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:59:11: error: ivars may not be placed in class extension     float texCoordFactorS;           ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:60:11: error: ivars may not be placed in class extension     float texCoordOffsetS;           ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:61:11: error: ivars may not be placed in class extension     float texCoordFactorT;           ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:62:11: error: ivars may not be placed in class extension     float texCoordOffsetT;           ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:65:12: error: ivars may not be placed in class extension     float *rippleCoeff;            ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:68:12: error: ivars may not be placed in class extension     float *rippleSource;            ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:69:12: error: ivars may not be placed in class extension     float *rippleDest;            ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:72:14: error: ivars may not be placed in class extension     GLfloat *rippleVertices;              ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:73:14: error: ivars may not be placed in class extension     GLfloat *rippleTexCoords;              ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:74:15: error: ivars may not be placed in class extension     GLushort *rippleIndicies;                   ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:84:5: error: use of undeclared identifier 'rippleSource'     memset(rippleSource, 0, (poolWidth+2)*(poolHeight+2)*sizeof(float));     ^In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch:55:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:25:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h:148:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h:75:5: note: instantiated from:   ((__darwin_obsz0 (dest) != (size_t) -1)                               \     ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:84:5: note: instantiated from:     memset(rippleSource, 0, (poolWidth+2)*(poolHeight+2)*sizeof(float));     ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:84:12: note: instantiated from:     memset(rippleSource, 0, (poolWidth+2)*(poolHeight+2)*sizeof(float));            ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:85:5: error: use of undeclared identifier 'rippleDest'     memset(rippleDest, 0, (poolWidth+2)*(poolHeight+2)*sizeof(float));     ^In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch:55:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:25:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h:148:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h:75:5: note: instantiated from:   ((__darwin_obsz0 (dest) != (size_t) -1)                               \     ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:85:5: note: instantiated from:     memset(rippleDest, 0, (poolWidth+2)*(poolHeight+2)*sizeof(float));     ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:85:12: note: instantiated from:     memset(rippleDest, 0, (poolWidth+2)*(poolHeight+2)*sizeof(float));            ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m:90:24: error: use of undeclared identifier 'touchRadius'     for (int y=0; y<=2*touchRadius; y++)                        ^fatal error: too many errors emitted, stopping now [-ferror-limit=]20 errors generated.20(4@42"Ivars may not be placed in class extension354874316#0#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#51#18#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#175#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#52#18#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#351#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#53#18#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#524#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#54#18#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#698#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#55#18#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#873#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#57#18#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#1047#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#59#11#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#1212#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#60#11#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#1377#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#61#11#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#1542#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#62#11#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#1707#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#65#12#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#1870#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#68#12#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#2034#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#69#12#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#2196#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#72#14#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#2366#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#73#14#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension354874316#2537#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#74#15#0#0#28"ivars may not be placed in *0(4@43"Use of undeclared identifier 'rippleSource'354874316#2713#124#3(13@131"Instantiated from: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h354874316#3862#144#7(7@131"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h:148:354874316#3730#132#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h308550662#148#0#148#0#0"0(7@185"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:25:354874316#3544#186#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h309418271#25#0#25#0#0"0(7@176"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:354874316#3367#177#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h309418463#6#0#6#0#0"0(7@176"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:9:354874316#3190#177#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h309419937#9#0#9#0#0"0(7@166"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:354874316#3023#167#0(6@141"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h309419935#9#0#9#0#0"0(7@104"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch:55:354874316#2918#105#0(6@78"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch351637936#55#0#55#0#0"0(13@247"Instantiated from: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h354874316#18446744073709551615#0#0(6@112"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h308550662#75#5#0#0#0"0(6@112"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h308550662#75#5#0#0#18"instantiated from:0(13@85"Instantiated from: /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m354874316#4088#98#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#84#5#0#0#18"instantiated from:0(13@85"Instantiated from: /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m354874316#4267#99#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#84#12#0#0#18"instantiated from:0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#84#5#0#0#30"use of undeclared identifier *0(4@41"Use of undeclared identifier 'rippleDest'354874316#4454#122#3(13@131"Instantiated from: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h354874316#5599#144#7(7@131"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h:148:354874316#18446744073709551615#0#0(6@104"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h308550662#148#0#148#0#0"0(7@185"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:25:354874316#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h309418271#25#0#25#0#0"0(7@176"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:354874316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h309418463#6#0#6#0#0"0(7@176"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:9:354874316#18446744073709551615#0#0(6@151"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h309419937#9#0#9#0#0"0(7@166"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:354874316#18446744073709551615#0#0(6@141"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h309419935#9#0#9#0#0"0(7@104"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch:55:354874316#18446744073709551615#0#0(6@78"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch351637936#55#0#55#0#0"0(13@247"Instantiated from: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h354874316#18446744073709551615#0#0(6@112"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h308550662#75#5#0#0#0"0(6@112"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/secure/_string.h308550662#75#5#0#0#18"instantiated from:0(13@85"Instantiated from: /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m354874316#5825#98#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#85#5#0#0#18"instantiated from:0(13@85"Instantiated from: /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m354874316#6002#99#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#85#12#0#0#18"instantiated from:0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#85#5#0#0#30"use of undeclared identifier *0(4@42"Use of undeclared identifier 'touchRadius'354874316#6187#124#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m351637936#90#24#0#0#30"use of undeclared identifier *0(4@37"Too many errors emitted, stopping now354874316#6379#68#0(1@37"too many errors emitted, stopping now0(0#0#66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m8663827520#2121"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-generated-files.hmap -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-own-target-headers.hmap -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-all-target-headers.hmap -iquote /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-project-headers.hmap -F/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator -I/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/include -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/DerivedSources/i386 -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/DerivedSources -include /var/folders/1r/1r4kwy6KHGCBrvYKIW0HlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLCameraRipple-Prefix-dhaasykamnxxbwfkqqtiwqdkkhlq/GLCameraRipple-Prefix.pch -c /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleModel.m -o /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/RippleModel.o1#
+
+CCompileC build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/RippleViewController.o /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354874316.138427
+e354874316.197756
+r0
+xCompileC
+xbuild/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/RippleViewController.o
+x/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.m:48:9: fatal error: 'CoreVideo/CVOpenGLESTextureCache.h' file not found
+o #import <CoreVideo/CVOpenGLESTextureCache.h>
+o         ^
+o1 error generated.
+lSLF07#2@83"Compile /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.m354874316#354874316#0(223"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.m:48:9: fatal error: 'CoreVideo/CVOpenGLESTextureCache.h' file not found #import <CoreVideo/CVOpenGLESTextureCache.h>         ^1 error generated.1(4@51"'CoreVideo/CVOpenGLESTextureCache.h' file not found354874316#0#147#0(6@75"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.m351637936#48#9#0#0#18"'*' file not found0(0#0#75"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.m8664004896#2139"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-generated-files.hmap -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-own-target-headers.hmap -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-all-target-headers.hmap -iquote /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-project-headers.hmap -F/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator -I/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/include -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/DerivedSources/i386 -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/DerivedSources -include /var/folders/1r/1r4kwy6KHGCBrvYKIW0HlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLCameraRipple-Prefix-dhaasykamnxxbwfkqqtiwqdkkhlq/GLCameraRipple-Prefix.pch -c /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/RippleViewController.m -o /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/RippleViewController.o1#
+
+CCompileC build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/main.o /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354874316.080047
+e354874316.138332
+r0
+xCompileC
+xbuild/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/main.o
+x/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m:50:
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:54:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) UIWindow *window;
+o            ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:54:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) UIWindow *window;
+o ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:54:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:56:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) RippleViewController *viewController;
+o            ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:56:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) RippleViewController *viewController;
+o ^
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:56:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m:54:5: error: unexpected '@' in program
+o     @autoreleasepool {
+o     ^
+o4 warnings and 3 errors generated.
+lSLF07#2@67"Compile /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m354874316#354874316#0(1379"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m:50:/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:54:12: error: unknown property attribute 'strong' @property (strong, nonatomic) UIWindow *window;            ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:54:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) UIWindow *window; ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:54:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:56:12: error: unknown property attribute 'strong' @property (strong, nonatomic) RippleViewController *viewController;            ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:56:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) RippleViewController *viewController; ^/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h:56:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m:54:5: error: unexpected '@' in program     @autoreleasepool {     ^4 warnings and 3 errors generated.7(4@35"Unknown property attribute 'strong'354874316#86#117#2(7@85"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m:50:354874316#0#86#0(6@59"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m351637936#50#0#50#0#0"0(13@105"Unknown property attribute 'strong' in /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#54#12#0#0#0"0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#54#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed354874316#266#160#2(7@85"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m:50:354874316#18446744073709551615#0#0(6@59"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m351637936#50#0#50#0#0"0(13@147"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#54#1#0#0#0"0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#54#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object354874316#478#152#2(7@85"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m:50:354874316#18446744073709551615#0#0(6@59"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m351637936#50#0#50#0#0"0(13@139"Default property attribute 'assign' not appropriate for non-gc object in /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#54#1#0#0#0"0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#54#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@35"Unknown property attribute 'strong'354874316#630#117#2(7@85"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m:50:354874316#18446744073709551615#0#0(6@59"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m351637936#50#0#50#0#0"0(13@105"Unknown property attribute 'strong' in /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#56#12#0#0#0"0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#56#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed354874316#830#160#2(7@85"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m:50:354874316#18446744073709551615#0#0(6@59"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m351637936#50#0#50#0#0"0(13@147"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#56#1#0#0#0"0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#56#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object354874316#1062#152#2(7@85"In file included from /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m:50:354874316#18446744073709551615#0#0(6@59"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m351637936#50#0#50#0#0"0(13@139"Default property attribute 'assign' not appropriate for non-gc object in /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h354874316#18446744073709551615#0#0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#56#1#0#0#0"0(6@66"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/AppDelegate.h351637936#56#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@25"Unexpected '@' in program354874316#1214#99#0(6@59"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m351637936#54#5#0#0#25"unexpected '@' in program0(0#0#59"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m8660536544#2107"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-generated-files.hmap -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-own-target-headers.hmap -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-all-target-headers.hmap -iquote /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-project-headers.hmap -F/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator -I/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/include -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/DerivedSources/i386 -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/DerivedSources -include /var/folders/1r/1r4kwy6KHGCBrvYKIW0HlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLCameraRipple-Prefix-dhaasykamnxxbwfkqqtiwqdkkhlq/GLCameraRipple-Prefix.pch -c /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/main.m -o /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/Objects-normal/i386/main.o1#
+
+CCompileXIB /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPad.xib
+s354874172.818870
+e354874174.652243
+r1
+xCompileXIB
+x/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPad.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPad.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on ViewController.
+lSLF07#2@64"CompileXIB GLCameraRipple/en.lproj/RippleViewController_iPad.xib354874172#354874174#0(256"/* com.apple.ibtool.document.warnings *//Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPad.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on ViewController.1(22@109"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on ViewController.354874174#18446744073709551615#0#0(6@91"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPad.xib351115561#18446744073709551615#0#18446744073709551615#0#0"0(0#0#91"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPad.xib8663845088#637"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/en.lproj/RippleViewController_iPad.nib /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPhone.xib
+s354874172.682662
+e354874174.672911
+r1
+xCompileXIB
+x/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPhone.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPhone.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on ViewController.
+lSLF07#2@66"CompileXIB GLCameraRipple/en.lproj/RippleViewController_iPhone.xib354874172#354874174#0(258"/* com.apple.ibtool.document.warnings *//Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPhone.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on ViewController.1(22@109"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on ViewController.354874174#18446744073709551615#0#0(6@93"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPhone.xib351115561#18446744073709551615#0#18446744073709551615#0#0"0(0#0#93"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPhone.xib8659968032#641"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/en.lproj/RippleViewController_iPhone.nib /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/en.lproj/RippleViewController_iPhone.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Icon-72.png GLCameraRipple/Images/Icon-72.png
+s354874174.652443
+e354874174.672637
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLCameraRipple.app/Icon-72.png
+xGLCameraRipple/Images/Icon-72.png
+lSLF07#2@38"Copy GLCameraRipple/Images/Icon-72.png354874174#354874174#0(0"0(0#0#71"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon-72.png8663929376#495"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon-72.png /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app0#
+
+CCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Icon-Small-50.png GLCameraRipple/Images/Icon-Small-50.png
+s354874174.654774
+e354874174.672800
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLCameraRipple.app/Icon-Small-50.png
+xGLCameraRipple/Images/Icon-Small-50.png
+lSLF07#2@44"Copy GLCameraRipple/Images/Icon-Small-50.png354874174#354874174#0(0"0(0#0#77"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon-Small-50.png8663946464#501"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon-Small-50.png /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app0#
+
+CCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Icon-Small.png GLCameraRipple/Images/Icon-Small.png
+s354874174.655973
+e354874174.673020
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLCameraRipple.app/Icon-Small.png
+xGLCameraRipple/Images/Icon-Small.png
+lSLF07#2@41"Copy GLCameraRipple/Images/Icon-Small.png354874174#354874174#0(0"0(0#0#74"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon-Small.png8663961216#498"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon-Small.png /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app0#
+
+CCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Icon-Small@2x.png GLCameraRipple/Images/Icon-Small@2x.png
+s354874174.664897
+e354874174.681198
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLCameraRipple.app/Icon-Small@2x.png
+xGLCameraRipple/Images/Icon-Small@2x.png
+lSLF07#2@44"Copy GLCameraRipple/Images/Icon-Small@2x.png354874174#354874174#0(0"0(0#0#77"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon-Small@2x.png8663975168#501"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon-Small@2x.png /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app0#
+
+CCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Icon.png GLCameraRipple/Images/Icon.png
+s354874174.670700
+e354874174.681374
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLCameraRipple.app/Icon.png
+xGLCameraRipple/Images/Icon.png
+lSLF07#2@35"Copy GLCameraRipple/Images/Icon.png354874174#354874174#0(0"0(0#0#68"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon.png8664000448#492"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon.png /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app0#
+
+CCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Icon@2x.png GLCameraRipple/Images/Icon@2x.png
+s354874174.671629
+e354874174.681489
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLCameraRipple.app/Icon@2x.png
+xGLCameraRipple/Images/Icon@2x.png
+lSLF07#2@38"Copy GLCameraRipple/Images/Icon@2x.png354874174#354874174#0(0"0(0#0#71"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon@2x.png8664015008#495"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Images/Icon@2x.png /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app0#
+
+CCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Shader.fsh GLCameraRipple/Shaders/Shader.fsh
+s354874172.680066
+e354874172.818588
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLCameraRipple.app/Shader.fsh
+xGLCameraRipple/Shaders/Shader.fsh
+lSLF07#2@38"Copy GLCameraRipple/Shaders/Shader.fsh354874172#354874172#0(0"0(0#0#71"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Shaders/Shader.fsh8660463648#495"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Shaders/Shader.fsh /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app0#
+
+CCpResource build/Debug-iphonesimulator/GLCameraRipple.app/Shader.vsh GLCameraRipple/Shaders/Shader.vsh
+s354874172.681642
+e354874172.818768
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GLCameraRipple.app/Shader.vsh
+xGLCameraRipple/Shaders/Shader.vsh
+lSLF07#2@38"Copy GLCameraRipple/Shaders/Shader.vsh354874172#354874172#0(0"0(0#0#71"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Shaders/Shader.vsh8661353536#495"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/Shaders/Shader.vsh /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app0#
+
+CGenerateDSYMFile /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app.dSYM /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/GLCameraRipple
+r0
+
+CLd /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/GLCameraRipple normal i386
+r0
+
+CProcessInfoPlistFile /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Info.plist GLCameraRipple/GLCameraRipple-Info.plist
+s354874167.820598
+e354874167.909498
+r1
+xProcessInfoPlistFile
+x/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Info.plist
+xGLCameraRipple/GLCameraRipple-Info.plist
+lSLF07#2@48"Process GLCameraRipple/GLCameraRipple-Info.plist354874167#354874167#0(0"0(0#0#78"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Info.plist8659220256#512"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GLCameraRipple/GLCameraRipple-Info.plist -genpkginfo /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app/Info.plist0#
+
+CProcessPCH /var/folders/1r/1r4kwy6KHGCBrvYKIW0HlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLCameraRipple-Prefix-dhaasykamnxxbwfkqqtiwqdkkhlq/GLCameraRipple-Prefix.pch.pth GLCameraRipple/GLCameraRipple-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354874167.909625
+e354874171.581887
+r1
+xProcessPCH
+x/var/folders/1r/1r4kwy6KHGCBrvYKIW0HlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLCameraRipple-Prefix-dhaasykamnxxbwfkqqtiwqdkkhlq/GLCameraRipple-Prefix.pch.pth
+xGLCameraRipple/GLCameraRipple-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch:51:2: warning: #warning "This project uses features only available in iOS SDK 5.0 and later." [-W#warnings]
+o #warning "This project uses features only available in iOS SDK 5.0 and later."
+o  ^
+o1 warning generated.
+lSLF07#2@51"Precompile GLCameraRipple/GLCameraRipple-Prefix.pch354874167#354874171#0(292"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch:51:2: warning: #warning "This project uses features only available in iOS SDK 5.0 and later." [-W#warnings] #warning "This project uses features only available in iOS SDK 5.0 and later."  ^1 warning generated.1(22@78"#warning "This project uses features only available in iOS SDK 5.0 and later."354874168#0#187#0(6@78"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch351637936#51#2#0#0#10"#warning *0(0#0#78"/Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch8647430752#1993"    cd /Users/hyrox/Downloads/GLCameraRipple    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-generated-files.hmap -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-own-target-headers.hmap -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-all-target-headers.hmap -iquote /Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/GLCameraRipple-project-headers.hmap -F/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator -I/Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/include -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/DerivedSources/i386 -I/Users/hyrox/Downloads/GLCameraRipple/build/GLCameraRipple.build/Debug-iphonesimulator/GLCameraRipple.build/DerivedSources -c /Users/hyrox/Downloads/GLCameraRipple/GLCameraRipple/GLCameraRipple-Prefix.pch -o /var/folders/1r/1r4kwy6KHGCBrvYKIW0HlU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GLCameraRipple-Prefix-dhaasykamnxxbwfkqqtiwqdkkhlq/GLCameraRipple-Prefix.pch.pth0#
+
+CTouch /Users/hyrox/Downloads/GLCameraRipple/build/Debug-iphonesimulator/GLCameraRipple.app
+r0
+
